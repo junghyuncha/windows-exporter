@@ -1,0 +1,4 @@
+18233cce9e8e44cc6e55a17ead14f5b839be32c36e245b2ebd4a8dfaf5d8a83f  windows_exporter-0.19.0-386.exe
+907572cd9a2f7da4fde4f6d22fe205f970c74b71efd255864b5bdf7d1061afc0  windows_exporter-0.19.0-386.msi
+de67da6eb5cbfbe2b2d4f68441b93d35dd20beaf9c046955572e43ead0dcdd69  windows_exporter-0.19.0-amd64.exe
+7a2e6a61af843ff201c80c25865b6c82454576bc7902ab25f43949f23364bc1a  windows_exporter-0.19.0-amd64.msi
